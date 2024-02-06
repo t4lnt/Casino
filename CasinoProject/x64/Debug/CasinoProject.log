@@ -1,0 +1,3 @@
+﻿  CasinoProject.cpp
+D:\cppProjects\CasinoProject\CasinoProject\CasinoProject.cpp(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CasinoProject.vcxproj -> D:\cppProjects\CasinoProject\x64\Debug\CasinoProject.exe
